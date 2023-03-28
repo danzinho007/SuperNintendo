@@ -1,0 +1,36 @@
+Estudo :
+
+*** SNES *** 
+Prcessador Ricoh 5A22 3.58 Mhz
+:2 Sistemas de 8 bits
+Cáculo = 1.5 MIPS
+Ram : 128 KB
+Jogos rodando a 2.68 Mhz
+LingProg = 65816
+https://en.wikibooks.org/wiki/Super_NES_Programming/SNES_Specs
+
+Termos :
+
+AppliIIGS = Processador que usa o Ricoh 5A22
+https://pt.wikipedia.org/wiki/Apple_IIGS
+
+Audacity
+Cabo HDMI
+Cabo OTG
+Extensor HDMI
+FastROM = Jogo com alto MHZ ( Exp 3.58 Mhz )
+https://github.com/VitorVilela7/fastrom
+
+FireStick Amazon = TV em Smart TV
+Funciona com Sistema Android
+Entrada mini-usb
+HUB USB 
+MIPS =
+Mhz = 
+Ricoh 5A22 3.58 Mhz = Processador do SNES
+https://pt.wikipedia.org/wiki/Ricoh_5A22
+
+SlowROM = Jogos com baixo Mhz ( Exp 2.68 Mhz )
+https://www.reddit.com/r/miniSNESmods/comments/79j5ic/potentially_useful_list_of_all_us_ntsc_games_that/
+
+ZSNES 
