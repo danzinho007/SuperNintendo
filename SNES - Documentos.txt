@@ -1,0 +1,60 @@
+Li : Arquivo de som
+
+DSP = Sinal Digital do Processador
+SNES = Super Nintendo
+UCP = Unidade Central de Processamento
+
+ADSR
+https://wiki.superfamicom.org/spc700-reference#dsp-voice-register:-adsr-1097
+Registro de voz
+
+Chip SPC 700
+https://en.wikibooks.org/wiki/Super_NES_Programming/SPC700_reference
+É um coprocessador que cordena o áudio do SNES
+
+Cooper
+http://amiga.lychesis.net/special/Copper.html
+Foi um coprocessador do chipset Amiga usado para mudar opções de vídeo enquanto o CPU estivesse ocupando fazendo coisas importantes
+
+Coprocessador
+É uma UCP ( Unidade Central de Processamento ) de um computador usada para suplementar as funções do microprocessador principal.
+
+ENVX
+https://wiki.superfamicom.org/spc700-reference#dsp-voice-register:-envx-1243
+Registro de voz
+
+GAIN
+https://wiki.superfamicom.org/spc700-reference#dsp-voice-register:-gain-1156
+Registro de voz
+
+LDA
+https://wiki.superfamicom.org/transferring-data-from-rom-to-the-snes-apu
+
+P
+https://wiki.superfamicom.org/spc700-reference#dsp-voice-register:-p-1038
+Registro de voz
+SRCN
+https://wiki.superfamicom.org/spc700-reference#dsp-voice-register:-srcn-1085
+Registro de voz
+
+VOL
+https://wiki.superfamicom.org/spc700-reference#dsp-voice-register:-vol-1020
+Registro de Voz
+
+Dicionário
+
+approach
+bloody
+development
+freely
+inner
+mean
+nasty
+pitch
+source
+stumble
+there
+val
+wave
+would
+zeropage
