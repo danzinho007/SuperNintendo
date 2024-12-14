@@ -1,4 +1,19 @@
-SNES
+SNES Sites 
+
+Atuais :
+https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/
+
+https://cdromance.org/translations/page/2/?platform=snes-rom&language=english-patched&sorted=alpha
+
+https://www.emulatorgames.net/roms/super-nintendo/
+
+https://romhackplaza.org/?s=&_platform=super-nintendo&_languages=english
+
+https://snescentral.com/gameindex.php
+
+https://superfamicom.org/
+
+Outros :
 
 Betas e jogos cancelados
 https://www.unseen64.net/
