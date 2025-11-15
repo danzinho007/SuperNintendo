@@ -1,0 +1,47 @@
+
+Adicionar lista de sites
+
+5 níveis ( estou jogando no 1 Novato )
+
+Planos:
+1-Ligar 22 países
+2500k Passageiros
+Aumentar Lucros
+
+1-Rotas 
+--Abrir > EscolherOrigem
+--Mudar
+--Fechar
+
+2-Negociação
+
+3-Fabricação
+--Boeing
+--Globus
+--MDC
+--Markov
+
+4-Orçamento
+--Reparo
+--AD
+--Serviço
+
+5-Mercado
+--Rota
+--Hotel
+--Conexões
+
+6-Patrocínio
+--Filial
+--Hotel
+--Investir
+
+7-Conversar
+--Abrir
+--Rotas
+--Aviões
+--Orçamento
+--Hotel
+--Mercado
+
+8-Passar o tempo
