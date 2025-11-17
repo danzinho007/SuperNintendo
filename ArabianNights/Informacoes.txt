@@ -1,0 +1,58 @@
+Arabian Nights: Sabaku no Seirei-ō
+Noites Árabes
+アラビアンナイト 〜砂漠の精霊王〜
+Arabian Nights: Spirit King of the Desert
+
+Arabian Nights é um jogo de aventura no mundo árabe. Além de coletar cristais que selaram o poder do Rei dos Espíritos, o jogador pode se mover livremente. Além disso, as decisões do jogador podem levar a vários cenários ou múltiplos finais.
+
+-Japan ( CRC32 B6DBF57B )
+Arabian Knights - Sabaku no Seirei Ou (J).sfc (GoodSNES v0.999.5)
+Arabian Nights - Sabaku no Seirei Ou (NTSC)(Jap)(1.0).sfc (Zapatabase 2011-01-30)
+Arabian Nights - Sabaku no Seirei Ou (Japan).sfc (No-Intro 2011-12-24)
+
+
+Códigos :
+
+No Random Battle (colon can't be typed into ZSNES, bsnes doesn't need and otherwise ignores it = code works for both though)
+7E00D6:02
+Walk through Walls (with hyphen)
+DDA7-5D6F
+8AAF-846F
+50.000 Tama (currency)
+Press L+B+Start+Start, then hold down Down on the D-Pad and press Y
+
+11closed = História + Detonado
+http://11closed.blogspot.com/2009/06/arabian-nights-sabaku-no-seirei-ou.html
+
+alexandria = Detonado
+https://alexandria.rpgclassics.com/game.php?game=835
+
+Alvanista = Jogatina
+https://alvanista.com/games/snes/arabian-nights-sabaku-no-seirei-ou?locale=en
+
+archive = Manual
+https://archive.org/details/arabiannightsmanualscanjpsfcsnes
+
+bdjogos = Informações
+https://bdjogos.com.br/jogo.php?id=10259
+
+geek = Matéria
+https://geekquest.org/review-de-arabian-nights-sabaku-no-seirei-o-noite-nas-arabias-em-16-bits/
+
+howlong = Tempo Zeramento
+https://howlongtobeat.com/game/539
+
+romhacking = Tradução ou hack / mod
+https://www.romhacking.net/games/435/
+
+spriters = sprites
+https://www.spriters-resource.com/snes/arabiannightssabakunoseireioujpn/?source=genre
+
+superfamicom = Database
+https://superfamicom.org/info/arabian-nights-sabaku-no-seirei-ou
+
+web = versão 1.0 inglês
+https://web.archive.org/web/20130208001741/http://www.au-ro-ra.net/index.php?page=antrans
+
+Wikipedia = Informações
+https://en.wikipedia.org/wiki/Arabian_Nights:_Sabaku_no_Seirei-%C5%8D

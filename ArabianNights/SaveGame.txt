@@ -1,0 +1,4 @@
+ArabianNights Save:
+
+Snes9x = .rtc
+Snes9x = .srm 

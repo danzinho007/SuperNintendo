@@ -1,0 +1,6 @@
+ArabianNight CRC32
+
+Original:
+Arabian Nights - Sabaku no Seirei Ou (Japan).sfc = B6DBF57B
+Traduzida:
+Ingles ( Arabian Nights - Sabaku no Seirei Ou (Japan) (patched).sfc ) = BE092358 
