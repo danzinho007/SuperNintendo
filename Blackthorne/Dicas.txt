@@ -1,0 +1,52 @@
+Blackthorne_Dicas:
+
+Otimizando poções de saúde
+Não use poções de saúde (Heal Potions) até que o seu medidor de vida chegue a duas unidades. Desta forma, você vai otimizar o uso das poções, aproveitando-as mais, ganhando mais “quilometragem” etc.
+
+Upgrades na arma
+A sua arma vai recebendo melhorias em seu poder de fogo na medida em que você progride no game.
+
+Ganhando Remote Wasps
+Os “Graggs” roxos, quando mortos, são os que liberam as Remote Wasps para você recolhê-las.
+
+Matando os Andromedogs
+Para matar os Androdogs, que parecem os caras do bem, mas com cor sombria, atire neles depois do seu segundo ou terceiro disparo. Tem que calcular bem o timing.
+
+Matando os Rock Beasts
+Eliminar os Rock Beasts também depende do timing. Espere que eles se movam para longe o suficiente de você e pique bala neles.
+
+Se tiver Spider Mines (Minas Aranhas) perto deles, tente matar os Rock Beasts perto delas para explodir ambos os inimigos!
+
+Matando os Whar’ork’s
+Use as Hover Bombs nos Whar’ork’s ou fique longe do alcance dos seus chicotes para poder atirar neles de boa.
+
+Matando Sarlac
+Matar Sarlac, que fica na última fase (17 ou Castle 5), é uma tarefa difícil. Você vai precisar de correr para trás e para frente, fim a fim, parar, sacar a arma e atirar cada vez. Se Sarlac estiver andando em sua direção e você correr por ele, o inimigo não poderá te machucar.
+
+Desenhar mapas
+O progresso pelas fases são bem simples. Em precisa de perder tempo desenhando mapas para vencer os níveis, exceto pela 13ª fase (Castle 1, pelo menos na versão de PC), que é meio complicada. Daí, vale a pena fazer seu mapinha aí. Ah, se ficar bom, mande pra gente!
+
+Trapaças da versão japonesa do Blackthorne do SNES
+Na versão japa do game (apenas nela), dá para você ativar umas trapaças durante o gameplay pressionando uns comandos:
+
+Exibir debug: Pressione X no Controle 2;
+Modo de movimento livre: Pressione X+Y+L+R no Controle 1 (pressione B para desativar);
+Power-up para a arma: Pressione Y no Controle 2 (repita o código até 3 vezes para o poder máximo);
+Resetar o jogo suavemente: Pressione A+B+L+R no Controle 1;
+Acelerar movimento: Segure B no Controle 2 .
+Estas trapaças foram divulgadas pelo LuigiSan.
+
+Trapaças da versão de Game Boy Advance do Blackthorne
+Os truques abaixo devem ser acionados na tela de título do Blackthorne do GBA:
+
+Saúde infinita: ←, →, ↓, ↑, B, B, ↓
+Invisibilidade: B, ↓, →, ↓, ↑, ↑, ←, B, ↑
+Cair sem morrer: B, B, ↑, ←, ↓, →, →, ↑
+Estas trapaças foram divulgadas pelo TimmyVermicelli.
+
+Lost Vikings no Blackthorne do Sega 32X
+A versão do Sega 32X do Blackthorne tem um easter egg do Lost Vikings, outro grande jogo antigo da Blizzard.
+
+Para conferir este easter egg, vá ao segundo nível de neve (L5OH), onde haverá uma tela com um Whar’ork numa plataforma de gelo e duas outras no lado direito. Mate o bandido, suba até a plataforma superior e caminhe para o próximo estágio. Haverá um Rock Beast no chão e um Gragg roxo com Remote Wasps ao lado direito, numa borda alta. Mate o Gragg e use uma bridge key para atravessar.
+
+Use um elevador exatamente onde está o corpo do vilão e você verá uma borda na tela acima. Alinhe o elevador da maneira certa e poderá subir até a borda e escalar. Daí, basta ir para esquerda que, na próxima tela, você encontrará os três vikings perdidos!

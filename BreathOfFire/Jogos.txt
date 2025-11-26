@@ -1,0 +1,11 @@
+Breath_Of_Fire_Jogos:
+
+GBA = Breath_Of_Fire_1
+SNES = Breath_Of_Fire_1
+GBA = Breath_Of_Fire_2
+SNES = Breath_Of_Fire_2
+PS1 = Breath_Of_Fire_3
+-Japan / USA / Europe
+PS1 = Breath_Of_Fire_4
+-Japan / USA / Europe
+? = Breath_Of_Fire_5
